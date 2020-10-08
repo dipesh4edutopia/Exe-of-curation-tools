@@ -1,9 +1,9 @@
-#Link Pdf Page
+# Link Pdf Page
 
 Turns a Freeplane/Freemind mindmap node into a clickable one.
 It opens a particular pdf page which user wants when clicked
 
-#Setting up the environment:
+# Setting up the environment:
 
 Step 1) Set up the Path for Acrobat Reader
 	a) Locate and Copy the path
@@ -16,7 +16,7 @@ Step 2) Set up Pdfs
 	b) If you have more than 1 pdf, rename the files to include "(Bookx)" in the name where x is a number
 		eg. Data mining.pdf will become Data mining(Book1).pdf
 
-#Running the tool
+# Running the tool
 
 Step 3) Give the reference commands in the mindmap
 	a) If you want page no 35 to be linked, in the node type #b1 p35
