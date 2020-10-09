@@ -3,7 +3,7 @@
 <node TEXT="Machine Learning" FOLDED="false" ID="ID_825489829" CREATED="1549259487616" MODIFIED="1549262320160" STYLE="oval">
 <font NAME="Dialog" SIZE="18" BOLD="true"/>
 <hook NAME="MapStyle">
-    <properties FIT_TO_VIEWPORT="false" SHOW_NOTE_ICONS="true" fit_to_viewport="false" show_note_icons="true" EDGECOLORCONFIGURATION="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
+    <properties SHOW_NOTE_ICONS="true" FIT_TO_VIEWPORT="false" fit_to_viewport="false" show_note_icons="true" EDGECOLORCONFIGURATION="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -192,12 +192,7 @@
 </node>
 <node TEXT="Dictionary Learning" ID="ID_1258367031" CREATED="1549262540909" MODIFIED="1549265216482">
 <font NAME="Dialog" BOLD="true"/>
-<node TEXT="b1 p26" ID="ID_804437178" CREATED="1569480153750" MODIFIED="1569480162390" LINK="../indexes/book1-page26.bat"/>
-<node TEXT="b1 p23" ID="ID_704716942" CREATED="1569480172952" MODIFIED="1569480177757" LINK="../indexes/book1-page23.bat"/>
-<node TEXT="b1 p26" ID="ID_1877502502" CREATED="1569480178563" MODIFIED="1569480183733" LINK="../indexes/book1-page26.bat"/>
 </node>
-<node TEXT="b1 p35" LINK="..\indexes\book1-page35.bat" ID="ID_591893766" CREATED="1570966696075" MODIFIED="1570966701875"/>
-<node TEXT="b2 p16" LINK="..\indexes\book2-page16.bat" ID="ID_429482322" CREATED="1570966702676" MODIFIED="1570966708121"/>
 </node>
 <node TEXT="Regression" POSITION="right" ID="ID_393954363" CREATED="1549259758074" MODIFIED="1549260282539">
 <icon BUILTIN="full-3"/>
@@ -346,7 +341,7 @@
 <node TEXT="DT Classification using Scikit-learn" ID="ID_1653013543" CREATED="1549260733394" MODIFIED="1549262320183">
 <font NAME="Dialog" BOLD="true"/>
 </node>
-<node TEXT="Book1" ID="ID_277723760" CREATED="1549435638209" MODIFIED="1549435654078" LINK="http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf#page=8"/>
+<node TEXT="b1 p250" LINK="..\indexes\book1-page250.bat" ID="ID_1240688254" CREATED="1602225771816" MODIFIED="1602225778912"/>
 </node>
 <node TEXT=" Ensemble Learning" ID="ID_1156530116" CREATED="1549260214656" MODIFIED="1549284584777">
 <font NAME="Dialog" BOLD="true"/>
